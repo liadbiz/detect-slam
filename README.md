@@ -1,3 +1,9 @@
+## NOTE
+
+1. The result of this repo is not reliable。
+2. I just modify Tracking.cc and Frame.cc, and I can not make sure my code is correct, I upload this project just for course project.
+3. I can not provide help if you want to reimplement detect-slam because I am not doing job about slam now. SORRY FOR THAT.
+
 ## What it is
 
 This a reimplementation of the paper: [Detect-SLAM Making Object Detection and
